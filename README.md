@@ -50,9 +50,9 @@ Armazenar e analisar dados capturados por sensores instalados em plantações, c
 - `README.md` – Documentação do projeto
 
 ## 👨‍💻 Integrantes do Grupo
-- Nome completo do responsável: [SEU_NOME]
-- RM: [SEU_RM]
-- Fase/Capítulo: fase2_cap10-12
+- Nome completo do responsável: André Anderson
+- RM: 566409
+- Fase/Capítulo: fase2_cap1
 
 ## 🧠 Observações
 A modelagem segue os princípios de cardinalidade 1:N, uso de chaves primárias e estrangeiras, conforme os capítulos 10 a 12 do material de Banco de Dados da FIAP.
